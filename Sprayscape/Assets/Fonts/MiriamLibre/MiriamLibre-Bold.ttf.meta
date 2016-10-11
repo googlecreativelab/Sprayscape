@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9080c1df3e7663644a2db65a720fc993
+timeCreated: 1467355636
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames:
+  - Miriam Libre
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 04a5cb3d2dec2e24890a2b8a424602e7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

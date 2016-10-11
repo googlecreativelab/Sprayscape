@@ -1,0 +1,1 @@
+<dependencies><dependency><groupId>com.google.android.gms</groupId><artifactId>play-services-auth</artifactId><version>9.2.1</version></dependency><dependency><groupId>com.android.support</groupId><artifactId>support-v13</artifactId><version>23.4.0</version></dependency></dependencies>

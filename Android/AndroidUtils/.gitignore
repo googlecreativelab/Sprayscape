@@ -1,0 +1,7 @@
+bin/
+gen/
+.idea/
+.classpath
+.project
+local.properties
+.gradle
