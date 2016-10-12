@@ -3,6 +3,8 @@
 
 Sprayscape is a perfectly imperfect VR-ish camera. It is an open source Android app released on the Android Experiments platform. 
 
+[<img alt="Get it on Google Play" height="45px" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge-border.png" />](https://play.google.com/store/apps/details?id=com.androidexperiments.sprayscape)
+
 ![Sprayscape](sprayscape.jpg)
 
 ## Technology
@@ -30,5 +32,14 @@ Some elements are not in the repository, and need to be setup before the Unity p
 
 After these steps the app should be ready to be built and run on your device.
 
-
-[<img alt="Get it on Google Play" height="45px" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge-border.png" />](https://play.google.com/store/apps/details?id=com.androidexperiments.sprayscape)
+## Acknowledgements
+[Brian Kehrer](https://github.com/birdimus),
+[Troy Lumpkin](https://github.com/troylumpkin),
+[Dan Motzenbecker](https://github.com/dmotz),
+[Jeramy Morrill](https://github.com/theceremony),
+[James Vecore](https://github.com/jamesvecore),
+[Norm McGarry](https://github.com/normmcgarry),
+[Chris Parker](https://github.com/seep),
+[Jonas Jongejan](https://github.com/HalfdanJ),
+[Glenn Cochon](https://github.com/glenncochon),
+[Ryan Burke](https://github.com/ryburke)
