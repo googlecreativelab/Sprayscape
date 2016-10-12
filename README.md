@@ -40,6 +40,8 @@ After these steps the app should be ready to be built and run on your device.
 [James Vecore](https://github.com/jamesvecore),
 [Norm McGarry](https://github.com/normmcgarry),
 [Chris Parker](https://github.com/seep),
+[Celso de Melo](https://github.com/CelsoDeMelo),
 [Jonas Jongejan](https://github.com/HalfdanJ),
 [Glenn Cochon](https://github.com/glenncochon),
+[Brendon Avalos](https://github.com/brendonavalos),
 [Ryan Burke](https://github.com/ryburke)
