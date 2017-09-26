@@ -1,5 +1,5 @@
 # Sprayscape 
-[![axp](https://www.androidexperiments.com/assets/img/axpbadge.svg)](https://www.androidexperiments.com/experiment/sprayscape)
+[![axp](https://experiments.withgoogle.com/assets/img/axpbadge.svg)](https://www.androidexperiments.com/experiment/sprayscape)
 
 Sprayscape is a perfectly imperfect VR-ish camera. It is an open source Android app released on the Android Experiments platform. 
 
