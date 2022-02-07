@@ -1,9 +1,17 @@
+<table>
+  <tr>
+    <td>
+      This project is no longer actively maintained by the Google Creative Lab but remains here in a read-only Archive mode so that it can continue to assist developers that may find the examples helpful. We aren’t able to address all pull requests or bug reports but outstanding issues will remain in read-only mode for reference purposes. Also, please note that some of the dependencies may not be up to date and there hasn’t been any QA done in a while so your mileage may vary.
+      <br><br>
+      For more details on how Archiving affects Github repositories see <a href="https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-archiving-repositories">this documentation </a>.
+      <br><br>
+      <b>We welcome users to fork this repository</b> should there be more useful, community-driven efforts that can help continue what this project began.
+    </td>
+  </tr>
+</table>
+
 # Sprayscape 
-[![axp](https://experiments.withgoogle.com/assets/img/axpbadge.svg)](https://www.androidexperiments.com/experiment/sprayscape)
-
 Sprayscape is a perfectly imperfect VR-ish camera. It is an open source Android app released on the Android Experiments platform. 
-
-[<img alt="Get it on Google Play" height="45px" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge-border.png" />](https://play.google.com/store/apps/details?id=com.androidexperiments.sprayscape)
 
 ![Sprayscape](sprayscape.jpg)
 
